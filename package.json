@@ -4,7 +4,6 @@
     "description": "VSCODE Extensions used by the 540 FRC Team",
     "repository": "https://github.com/Talon540Programming/Talon540-FRC-Extensions",
     "version": "0.0.1",
-    "icon": "https://images.squarespace-cdn.com/content/v1/5c3a34a64eddec8cad28b92d1547321448453-MYHPRPELKFIVEY8FBLIM/540Logo+%28vectorized%29.png?format=1500w",
     "engines": {
         "vscode": "^1.65.0"
     },
