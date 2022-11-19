@@ -18,9 +18,6 @@
     "extensionPack": [ 
         "ms-vscode.cpptools",
         "ms-vscode.cpptools-themes",
-        "twxs.cmake",
-        "ms-vscode.cmake-tools",
-        "cschlosser.doxdocgen",
         "jeff-hykin.better-cpp-syntax",
         "ms-vscode-remote.remote-ssh",
         "ms-vscode-remote.remote-containers",
@@ -33,8 +30,6 @@
         "vscjava.vscode-java-dependency",
         "ms-python.vscode-pylance",
         "ms-python.python",
-        "vscjava.vscode-java-test",
-        "wpilibsuite.vscode-wpilib",
         "vscjava.vscode-gradle"
     ]
 }
