@@ -33,6 +33,7 @@
         "ms-python.vscode-pylance",
         "ms-python.python",
         "vscjava.vscode-java-test",
-        "wpilibsuite.vscode-wpilib"
+        "wpilibsuite.vscode-wpilib",
+        "vscjava.vscode-gradle"
     ]
 }
